@@ -7,5 +7,8 @@
     "test": "exit 0"
   },
   "author": "Jean Vidal",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@jvidaln:registry": "https://npm.pkg.github.com"
+  }
 }
