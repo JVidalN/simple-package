@@ -11,5 +11,6 @@
   },
   "author": "Jean Vidal",
   "license": "ISC",
-  "repository": "github:JVidalN/simple-package"
+  "repository": "github:JVidalN/simple-package",
+  "type": "module"
 }
