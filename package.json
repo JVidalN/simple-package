@@ -3,13 +3,13 @@
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jvidaln"
+  },
   "scripts": {
     "test": "exit 0"
   },
   "author": "Jean Vidal",
   "license": "ISC",
-  "repository": "github:JVidalN/simple-package",
-  "publishConfig": {
-    "@jvidaln:registry": "https://npm.pkg.github.com"
-  }
+  "repository": "github:JVidalN/simple-package"
 }
