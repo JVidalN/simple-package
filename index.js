@@ -1,5 +1,1 @@
-const sayHello = function (name) {
-    console.log(`Hello, ${name}!`);
-}
-
-export default sayHello;
+export { Button } from "./src/components/Button/Button";
